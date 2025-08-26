@@ -25,6 +25,11 @@ Our mission is to create a **vibrant, transparent, and rewarding digital economy
 | **Decimals**     | 9                  |
 | **Standard**     | Spl-Token 2022     |
 | **Blockchain**   | Solana Mainnet     |
+| **Address Token**|  mntT5Xh4dp9n5dUrR3ZLUJVdQuDBxKRk1F4ZCUx1raD |
+| **Authority**|  pop1BEKojWBTL3BLNzhoFhQmMJZSXSqLo2yBybYyTY3 |
+| **Mint**|  Disable |
+
+
 
 ---
 
